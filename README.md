@@ -8,4 +8,4 @@ It has three themes:
 
 I also added some introvert folk content and some memes for good measure.
 
-Here is a screenshot:
+Here are screenshots of what it looks like:
