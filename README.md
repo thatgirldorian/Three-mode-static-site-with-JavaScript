@@ -1,5 +1,7 @@
 # Three-mode-static-site-with-JavaScript
 
+<h3>Function & Description:</h3>
+
 This is a static website I built with JavaScript. 
 It has three themes:
 - dark
@@ -7,6 +9,14 @@ It has three themes:
 - cool
 
 I also added some introvert folk content and some memes for good measure.
+
+<h3>Technology Used:</h3>
+
+- HTML
+- CSS
+- JavaScript
+
+<h3>Screenshot:</h3>
 
 Here are screenshots of what it looks like:
 
