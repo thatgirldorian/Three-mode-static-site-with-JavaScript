@@ -16,6 +16,10 @@ I also added some introvert folk content and some memes for good measure.
 - CSS
 - JavaScript
 
+<h3>Link to site:</h3>
+
+https://boring-aryabhata-b53905.netlify.com/
+
 <h3>Screenshot:</h3>
 
 Here are screenshots of what it looks like:
